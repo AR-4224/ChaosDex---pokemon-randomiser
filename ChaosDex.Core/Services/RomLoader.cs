@@ -4,9 +4,12 @@ using System.Text;
 
 namespace ChaosDex.Core.Services
 {
-    internal class RomLoader
+    public static class RomLoader
     {
+        public static void Load(string path)
+        {
 
+        }
 
     }
 }
