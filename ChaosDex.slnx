@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ChaosDex.CLI/ChaosDex.CLI.csproj" />
+  <Project Path="ChaosDex.Core/ChaosDex.Core.csproj" />
+  <Project Path="ChaosDex.Tests/ChaosDex.Tests.csproj" />
+  <Project Path="ChaosDex.UI/ChaosDex.UI.csproj" />
+</Solution>
